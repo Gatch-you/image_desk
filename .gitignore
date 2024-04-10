@@ -1,0 +1,16 @@
+# image dir
+/data/images/input/**
+/data/images/output/**
+
+# video dir
+/data/videos/input/**
+/data/videos/output/**
+
+#json dir
+/data/json/input/**
+/data/json/output/**
+
+# venv
+/img_venv
+
+__pycache__/
